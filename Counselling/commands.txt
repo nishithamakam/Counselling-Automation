@@ -1,0 +1,20 @@
+
+1)D:\Counselling Automation>cd Counselling
+
+2)D:\Counselling Automation\Counselling>python -m venv venv
+
+3)D:\Counselling Automation\Counselling>venv\Scripts\activate
+
+4)(venv) D:\Counselling Automation\Counselling>pip list
+Package Version
+------- -------
+pip     24.0
+
+
+5)(venv) D:\Counselling Automation\Counselling>pip install django
+6)(venv) D:\Counselling Automation\Counselling>pip install twilio
+
+7)(venv) D:\Counselling Automation\Counselling>python manage.py runserver
+
+gnits@123
+
