@@ -2,6 +2,10 @@
 The Counseling Automation Web Application is designed to streamline and enhance the counseling process within educational institutions. By leveraging modern technologies, this application aims to reduce the workload of counselors, improve accessibility for students and teachers, and provide valuable performance insights to better assist students in their academic and personal growth.
 
 <img width="150" alt="counselling_automation" src="https://github.com/user-attachments/assets/be0f020d-d3c0-45ff-93c7-5d7544321cb6">
+<img width="150" alt="Student_login" src="https://github.com/user-attachments/assets/557cbaa5-bb2d-4e3a-aac5-2abcbfebdf97">
+<img width="150" alt="Student_performance" src="https://github.com/user-attachments/assets/10fd5e46-6984-4bd5-a8a4-02f2c5886fdb">
+
+
 
 # Features:
   ## Streamlined Counseling Process: 
