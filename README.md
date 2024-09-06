@@ -8,7 +8,6 @@ The Counseling Automation Web Application is designed to streamline and enhance 
  
 
 
-
 # Features:
   ## Streamlined Counseling Process: 
 The main objective of this application is to simplify the counseling process for both counselors and students. It eliminates the cumbersome manual tasks associated with counseling, allowing counselors to focus more on addressing student challenges.
