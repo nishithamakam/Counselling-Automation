@@ -5,7 +5,7 @@ The Counseling Automation Web Application is designed to streamline and enhance 
 <img width="150" alt="Student_login" src="https://github.com/user-attachments/assets/557cbaa5-bb2d-4e3a-aac5-2abcbfebdf97">
 <img width="150" alt="Student_performance" src="https://github.com/user-attachments/assets/10fd5e46-6984-4bd5-a8a4-02f2c5886fdb">
 <img width="50" height=110 alt="SMS" src="https://github.com/user-attachments/assets/f7f15174-8258-4d4a-8bfd-131ffab129f0">
- 
+  
 
 
 # Features:
